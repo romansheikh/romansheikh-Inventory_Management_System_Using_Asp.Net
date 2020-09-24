@@ -1,0 +1,304 @@
+E:\Pracitce\Solution_File\Project\bin\Project.dll.config
+E:\Pracitce\Solution_File\Project\bin\Project.dll
+E:\Pracitce\Solution_File\Project\bin\Project.pdb
+E:\Pracitce\Solution_File\Project\bin\roslyn\csc.exe
+E:\Pracitce\Solution_File\Project\bin\roslyn\csc.exe.config
+E:\Pracitce\Solution_File\Project\bin\roslyn\csc.rsp
+E:\Pracitce\Solution_File\Project\bin\roslyn\csi.exe
+E:\Pracitce\Solution_File\Project\bin\roslyn\csi.exe.config
+E:\Pracitce\Solution_File\Project\bin\roslyn\csi.rsp
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Pracitce\Solution_File\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.AppContext.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Collections.Immutable.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Console.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Globalization.Calendars.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.IO.Compression.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.IO.FileSystem.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Net.Http.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Net.Sockets.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.ValueTuple.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Xml.XPath.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Pracitce\Solution_File\Project\bin\roslyn\vbc.exe
+E:\Pracitce\Solution_File\Project\bin\roslyn\vbc.exe.config
+E:\Pracitce\Solution_File\Project\bin\roslyn\vbc.rsp
+E:\Pracitce\Solution_File\Project\bin\roslyn\VBCSCompiler.exe
+E:\Pracitce\Solution_File\Project\bin\roslyn\VBCSCompiler.exe.config
+E:\Pracitce\Solution_File\Project\bin\Antlr3.Runtime.dll
+E:\Pracitce\Solution_File\Project\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Pracitce\Solution_File\Project\bin\AspNet.ScriptManager.jQuery.dll
+E:\Pracitce\Solution_File\Project\bin\EntityFramework.dll
+E:\Pracitce\Solution_File\Project\bin\EntityFramework.SqlServer.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Google.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Web.Infrastructure.dll
+E:\Pracitce\Solution_File\Project\bin\Newtonsoft.Json.dll
+E:\Pracitce\Solution_File\Project\bin\Owin.dll
+E:\Pracitce\Solution_File\Project\bin\System.Web.Optimization.dll
+E:\Pracitce\Solution_File\Project\bin\WebGrease.dll
+E:\Pracitce\Solution_File\Project\bin\System.Web.Optimization.xml
+E:\Pracitce\Solution_File\Project\bin\Newtonsoft.Json.xml
+E:\Pracitce\Solution_File\Project\bin\Antlr3.Runtime.pdb
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Pracitce\Solution_File\Project\bin\EntityFramework.xml
+E:\Pracitce\Solution_File\Project\bin\EntityFramework.SqlServer.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Google.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Pracitce\Solution_File\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Pracitce\Solution_File\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\Pracitce\Solution_File\Project\obj\Debug\Project.csproj.CopyComplete
+E:\Pracitce\Solution_File\Project\obj\Debug\Project.dll
+E:\Pracitce\Solution_File\Project\obj\Debug\Project.pdb
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Project.dll.config
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Project.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Project.pdb
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csc.exe
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csc.exe.config
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csc.rsp
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csi.exe
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csi.exe.config
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csi.rsp
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.AppContext.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Console.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\vbc.exe
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\vbc.exe.config
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\vbc.rsp
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Antlr3.Runtime.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Newtonsoft.Json.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Owin.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\System.Web.Optimization.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\WebGrease.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\System.Web.Optimization.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Newtonsoft.Json.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Antlr3.Runtime.pdb
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.pdb
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Project.dll.config
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Project.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Project.pdb
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csc.exe
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csc.exe.config
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csc.rsp
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csi.exe
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csi.exe.config
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\csi.rsp
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Console.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\vbc.exe
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\vbc.exe.config
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\vbc.rsp
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Antlr3.Runtime.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Newtonsoft.Json.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Owin.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\System.Web.Optimization.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\WebGrease.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\System.Web.Optimization.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Newtonsoft.Json.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.dll
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\obj\Debug\Project.pdb
+C:\Users\Student\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\AjaxControlToolkit.dll
+C:\Users\roman\OneDrive\IDB COURSES\All Module\7th Exam Modules ASP.NET\ASP.Net Project Inventroy\Solution_File\Project\bin\AjaxControlToolkit.dll
